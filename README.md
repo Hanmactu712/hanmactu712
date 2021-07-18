@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanmactu712" alt="hanmactu712" /></a> </p>
 
-- 🔭 I’m currently working on [DFinTracker](https://github.com/Hanmactu712/DFINTracker)
+- 🔭 I’m currently working on [Dapps.CqrsCore](https://github.com/Hanmactu712/Dapps.CqrsCore)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hanmactu712](https://github.com/Hanmactu712)
 
